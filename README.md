@@ -1,3 +1,7 @@
+# All of these files were used in creating my personal website. There was also a node_modules file that I couldn't upload. [Link to video from HeroSection](https://www.pexels.com/video/high-angle-view-of-a-vinyl-in-a-turntable-5983037/)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
