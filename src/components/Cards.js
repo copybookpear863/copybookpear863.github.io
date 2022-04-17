@@ -74,7 +74,7 @@ function Cards() {
               src={Boeing}
               text="Boeing Summer Program 2021 Software Internship Review"
               label='Boeing 2021'
-              path='[insert link to github page of pdf]'
+              path='https://github.com/copybookpear863/PersonalWebsite/blob/main/public/BoeingSummerProgramSoftwarePages.pdf'
             />
           </ul>
           </div>
